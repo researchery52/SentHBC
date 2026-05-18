@@ -8,7 +8,7 @@ SentBHC systematically fuses textual semantic representations (extracted via BER
 
 ## 📂 Repository Structure
 
-The repository is structured to ensure full scientific replication while maintaining strict adherence to double-blind peer review protocols:
+The repository is structured to ensure full scientific replication:
 
 * **`01_voice_feature_extraction.ipynb`**: The primary Jupyter Notebook containing the data ingestion pipeline, feature alignment, and the balanced training loop for the hybrid fusion architecture. *(Note: Execution outputs are cleared in the source code to maintain repository scannability and eliminate visualization time-outs).*
 * **`01_voice_feature_extraction_executed_outputs.pdf`**: A fully rendered, static visual proof of the notebook execution. This document contains all live training logs, loss convergence metrics, confusion matrices, and classification reports for immediate web review.
