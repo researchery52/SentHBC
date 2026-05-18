@@ -34,8 +34,9 @@ Deployment of the framework locally requires an environment meeting the followin
 
 ```bash
 # Clone the anonymous repository
-git clone [https://github.com/YOUR_ANONYMOUS_USER/YOUR_REPO_NAME.git](https://github.com/YOUR_ANONYMOUS_USER/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone https://github.com/researchery52/SentHBC
+(https://github.com/researchery52/SentHBC.git)
+cd SentHBC
 
 # Install required deep learning and signal processing dependencies
 pip install torch transformers librosa pandas numpy matplotlib seaborn yt-dlp wordcloud tqdm
